@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Net",
+    "slug": "net",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.1.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#88E690"
+    },
+   
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nicowashere.shylock",
+      "buildNumber":"1.1.0"
+    }
+  }
+}
